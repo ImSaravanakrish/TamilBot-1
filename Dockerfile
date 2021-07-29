@@ -1,4 +1,4 @@
-FROM TamilBots/TamilUserBot:alpine
+FROM tamilbots/tamiluserbot:alpine
 
 #clonning repo 
 RUN git clone https://github.com/TamilBots/TamilUserBot.git /root/userbot
